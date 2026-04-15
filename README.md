@@ -20,6 +20,11 @@
 ![Concurrency](https://img.shields.io/badge/Concurrency-HighLoad-red?style=for-the-badge)
 
 ---
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Automation-green?style=for-the-badge)
+![WPPConnect](https://img.shields.io/badge/WPPConnect-Integration-blue?style=for-the-badge)
+![Z-API](https://img.shields.io/badge/Z--API-Integration-orange?style=for-the-badge)
+
+---
 ## ⚡ Sobre mim
 
 - 🔧 Especialista em backend e integrações
