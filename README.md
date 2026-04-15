@@ -14,7 +14,12 @@
 ![Automation](https://img.shields.io/badge/Automation-Processes-orange?style=for-the-badge)
 
 ---
+![Architecture](https://img.shields.io/badge/Architecture-Scalable-blue?style=for-the-badge)
+![Queues](https://img.shields.io/badge/Queues-Async-green?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching-Performance-orange?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-HighLoad-red?style=for-the-badge)
 
+---
 ## ⚡ Sobre mim
 
 - 🔧 Especialista em backend e integrações
