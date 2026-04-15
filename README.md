@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gilberto Wiatrowski
 
-<!--
-**betowiatrowski/betowiatrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focado em integrações, automação e sistemas de alta performance
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
+![Integration](https://img.shields.io/badge/Integration-Systems-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Processes-orange?style=for-the-badge)
+
+---
+
+## ⚡ Sobre mim
+
+- 🔧 Especialista em backend e integrações
+- 📊 Experiência com sistemas de alta demanda
+- ⚙️ Automação de processos e otimização de performance
+- 🔗 Integrações com APIs e mensageria (ex: WhatsApp)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betowiatrowski&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betowiatrowski&layout=compact)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gilberto-wiatrowski-41b2b286/)
+
+---
+
+## 🚀 Foco atual
+
+Desenvolvimento de soluções escaláveis, integrações e automação de processos para alta performance
