@@ -31,7 +31,7 @@ Sistema para automação de comunicação e fluxos empresariais:
 
 ---
 
-### ⚙️ Backend SaaS Escalável
+### ⚙️ Infraestrutura backend de automação inteligente e comunicação em escala
 Arquitetura orientada para alta performance e crescimento:
 
 - APIs REST (.NET / Node.js)  
