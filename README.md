@@ -14,6 +14,13 @@ Atuo na construção e otimização de soluções escaláveis, com foco em proce
 ![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
 
 ---
+## 💬 Messaging & Integrations
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Automation-green?style=for-the-badge)
+![WPPConnect](https://img.shields.io/badge/WPPConnect-Integration-blue?style=for-the-badge)
+![Z-API](https://img.shields.io/badge/Z--API-Integration-orange?style=for-the-badge)
+
+---
 
 ## 💬 Integrações e Automação
 
