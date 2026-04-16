@@ -39,14 +39,19 @@ Arquitetura orientada a alta demanda:
 - Execução otimizada para alto volume (IIS / infraestrutura dedicada)
 
 ---
-## ?? Stack Tecnológica
+## ⚙️ Stack Tecnológica
 
+### 🧠 Backend & Arquitetura
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ Banco de Dados & Persistência
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🔌 Integrações & APIs
+![REST API](https://img.shields.io/badge/APIs-REST%20%2F%20Webhooks-green?style=for-the-badge)
 --
 
 ## 🧩 Stack Técnico
