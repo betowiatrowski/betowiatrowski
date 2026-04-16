@@ -89,7 +89,7 @@ Eu resolvo isso construindo:
 ## 📦 Direção atual
 
 - Plataforma SaaS de automação com WhatsApp + IA  
-- Sistemas multi-tenant escaláveis  
+- Sistemas escaláveis  
 - Infraestrutura de comunicação inteligente  
 - Evolução de produtos SaaS orientados a API  
 
