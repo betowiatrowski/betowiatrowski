@@ -71,7 +71,8 @@ Eu resolvo isso construindo:
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ### Infraestrutura
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
