@@ -30,7 +30,7 @@ Experiência com automação e processamento de mensagens em larga escala, integ
 ## 🤖 Funcionalidades
 
 - Atendimento automático via WhatsApp
-- Respostas inteligentes com IA (OpenAI)
+- Respostas inteligentes com IA 
 - Processamento de mensagens em tempo real
 - Automação de conversas e fluxos
   
