@@ -69,7 +69,7 @@ Experiência com automação e processamento de mensagens em larga escala, integ
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betowiatrowski&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betowiatrowski&show_icons=true&theme=default&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betowiatrowski&layout=compact&count_private=true)
 
