@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Gilberto Wiatrowski
+# 👋 Hi, I'm Gilberto Wiatrowski
 
-Desenvolvedor Backend com experiência em integrações de sistemas, automação de processos e desenvolvimento de aplicações de alta performance.
-
-Atuo na construção e otimização de soluções escaláveis, com foco em processamento de alto volume, estabilidade e eficiência operacional.
+💻 Desenvolvedor Backend com experiência em integrações, automação e sistemas de alta performance  
+💻 Backend Developer with experience in integrations, automation and high-performance systems  
 
 ---
 
-## 🚀 Stack Tecnológica
+## 🚀 Stack Tecnológica | Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
@@ -14,50 +14,68 @@ Atuo na construção e otimização de soluções escaláveis, com foco em proce
 ![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
 
 ---
-## 💬 Messaging & Integrations
+
+## 💬 Mensageria & Integrações | Messaging & Integrations
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Automation-green?style=for-the-badge)
 ![WPPConnect](https://img.shields.io/badge/WPPConnect-Integration-blue?style=for-the-badge)
-![Z-API](https://img.shields.io/badge/Z--API-Integration-orange?style=for-the-badge)
+![Z--API](https://img.shields.io/badge/Z--API-Integration-orange?style=for-the-badge)
+
+Experiência com automação e processamento de mensagens em larga escala, integração com APIs e eventos em tempo real  
+Experience with automation and high-volume message processing, API integrations and real-time events  
 
 ---
 
-## 💬 Integrações e Automação
+## 🏗️ Arquitetura & Práticas | Architecture & Practices
 
-- Integração com APIs REST e sistemas de terceiros  
-- Automação de processos e fluxos operacionais  
-- Processamento de eventos em tempo real (webhooks)  
-- Integrações com plataformas de mensageria (incluindo WhatsApp)  
-
----
-
-## 🏗️ Arquitetura e Engenharia
-
-- Processamento assíncrono e execução em background  
-- Sistemas orientados à escalabilidade e alta performance  
+- Processamento assíncrono (background jobs)  
+- Sistemas orientados à escalabilidade e performance  
 - Concorrência e controle de carga  
 - Otimização de queries e acesso a dados  
-- Integração entre serviços e sistemas distribuídos  
+- Integração entre sistemas distribuídos  
+
+- Asynchronous processing (background jobs)  
+- Scalable and high-performance systems  
+- Concurrency and load control  
+- Query and data optimization  
+- Distributed systems integration  
 
 ---
 
-## ⚡ Experiência
+## 🎯 Foco Atual | Current Focus
 
-- Desenvolvimento de sistemas backend para ambientes de alta demanda  
-- Otimização de performance e estabilidade de aplicações  
-- Automação de processos críticos de negócio  
-- Integração entre múltiplos serviços e plataformas  
+- Escalabilidade e performance em sistemas backend  
+- Integrações e automação de processos  
+- Processamento de alto volume e mensageria  
 
----
-
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betowiatrowski&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betowiatrowski&layout=compact)
+- Scalability and performance in backend systems  
+- Integrations and process automation  
+- High-volume processing and messaging  
 
 ---
 
-## 📫 Contato
+## ⚙️ Forma de Atuação | Working Approach
+
+- Foco em eficiência e estabilidade  
+- Desenvolvimento orientado à performance  
+- Atuação em ambientes de alta demanda  
+- Evolução contínua de arquitetura  
+
+- Focus on efficiency and stability  
+- Performance-oriented development  
+- Experience in high-demand environments  
+- Continuous architecture evolution  
+
+---
+
+## 📈 Estatísticas | Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betowiatrowski&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betowiatrowski&layout=compact&count_private=true)
+
+---
+
+## 📫 Contato | Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gilberto-wiatrowski-41b2b286/)
