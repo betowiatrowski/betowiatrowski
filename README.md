@@ -7,7 +7,7 @@
 
 ## 🧠 O que eu construo
 
-Desenvolvo **sistemas SaaS com inteligência artificial focados em automação de comunicação e processos empresariais**, transformando operações manuais em fluxos inteligentes, escaláveis e automatizados.
+Desenvolvo **sistemas com inteligência artificial focados em automação de comunicação e processos empresariais**, transformando operações manuais em fluxos inteligentes, escaláveis e automatizados.
 
 - 🤖 Automação com IA aplicada a comunicação e suporte  
 - 📲 Plataformas de WhatsApp em escala (Z-API / WPPConnect)  
